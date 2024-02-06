@@ -1,3 +1,7 @@
 This is a file named as TestingFile.txt ,basically created for testing
 As the name suggests this file is used in manual as well as automation testing
 Here we run our project in jenkins via git
+-----------------------------------------------------
+This is a file named as TestingFile.txt ,basically created for testing
+As the name suggests this file is used in manual as well as automation testing
+Here we run our project in jenkins via git
